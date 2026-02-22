@@ -22,7 +22,7 @@
     "i18next-xhr-backend": "^0.5.3",
     "lodash": "^4.11.2",
     "marked": "^0.3.6",
-    "meteor-node-stubs": "~0.2.0",
+    "meteor-node-stubs": "~1.2.26",
     "moment": "^2.13.0",
     "mout": "^1.0.0",
     "os": "^0.1.1",
